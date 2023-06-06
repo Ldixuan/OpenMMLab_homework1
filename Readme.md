@@ -32,4 +32,7 @@
 
 
 ### 预测图片
-![Image text] https://github.com/Ldixuan/OpenMMLab_homework1/blob/master/ear.jpg
+![image] https://github.com/Ldixuan/OpenMMLab_homework1/blob/master/ear.jpg
+
+### 预测视频
+![image] https://github.com/Ldixuan/OpenMMLab_homework1/blob/master/ear.git
